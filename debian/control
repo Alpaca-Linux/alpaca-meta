@@ -1,0 +1,20 @@
+Source: alpaca-meta
+Section: admin
+Priority: optional
+Maintainer: Anton Kraft <alpaca@akraft.org>
+Build-Depends: debhelper (>= 12), debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Vcs-Browser: https://github.com/Alpaca-Linux/alpaca-meta
+Vcs-Git: https://github.com/Alpaca-Linux/alpaca-meta.git
+
+Package: alpaca-meta
+Section: admin
+Architecture: all
+Depends: 
+ budgie-desktop (>= 10.5),
+ nemo,
+ x11-utils,
+ xdg-user-dirs-gtk,
+ ${misc:Depends}
+Description: Customizations & Packages for Alpaca Linux
+Alpaca Linux packages and customizations.

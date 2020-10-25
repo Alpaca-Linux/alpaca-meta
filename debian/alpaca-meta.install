@@ -1,0 +1,4 @@
+nemo-autostart/* /etc/xdg/autostart/
+nemo-actions/* /usr/share/nemo/actions/
+panel-override/* /usr/share/budgie-desktop/
+lightdm.conf.d/* /etc/lightdm/lightdm.conf.d/
