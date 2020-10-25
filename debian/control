@@ -17,4 +17,4 @@ Depends:
  xdg-user-dirs-gtk,
  ${misc:Depends}
 Description: Customizations & Packages for Alpaca Linux
-Alpaca Linux packages and customizations.
+ Alpaca Linux packages and customizations.
