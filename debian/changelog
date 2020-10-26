@@ -1,3 +1,9 @@
+alpaca-meta (1.1) unstable; urgency=medium
+
+  * Removed "Default" Background
+
+ -- Anton Kraft <alpaca@akraft.org>  Mon, 26 Oct 2020 22:19:37 +0100
+
 alpaca-meta (1.0) unstable; urgency=medium
 
   * Initial release.

@@ -15,9 +15,3 @@ desktop-icons-handler='NEMO'
 
 [org.gnome.mutter]
 attach-modal-dialogs=false
-
-[org.gnome.desktop.screensaver]
-picture-uri='file:///user/share/backgrounds/default.jpg'
-
-[org.gnome.desktop.background]
-picture-uri='file:///user/share/backgrounds/default.jpg'
