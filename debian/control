@@ -12,6 +12,7 @@ Section: admin
 Architecture: all
 Depends: 
  budgie-desktop (>= 10.5),
+ budgie-network-applet,
  nemo,
  x11-utils,
  xdg-user-dirs-gtk,

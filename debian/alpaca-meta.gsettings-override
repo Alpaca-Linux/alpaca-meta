@@ -13,5 +13,8 @@ triggers=[]
 dark-theme=false
 desktop-icons-handler='NEMO'
 
+[com.solus-project.tray2]
+show-nm-trayicon=false
+
 [org.gnome.mutter]
 attach-modal-dialogs=false

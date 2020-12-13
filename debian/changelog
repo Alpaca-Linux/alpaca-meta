@@ -1,3 +1,9 @@
+alpaca-meta (1.2) unstable; urgency=medium
+
+  * Added NetworkApplet
+
+ -- Anton Kraft <alpaca@akraft.org>  Sun, 13 Dec 2020 13:11:10 +0100
+
 alpaca-meta (1.1) unstable; urgency=medium
 
   * Removed "Default" Background
