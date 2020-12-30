@@ -13,6 +13,7 @@ Architecture: all
 Depends: 
  budgie-desktop (>= 10.5),
  budgie-network-applet,
+ budgie-calendar-applet,
  nemo,
  x11-utils,
  xdg-user-dirs-gtk,
